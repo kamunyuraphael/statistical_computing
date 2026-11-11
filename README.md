@@ -1,4 +1,6 @@
 # BIT 4131 Statistical Computing and Reporting: Group Work
+**Name:** Kamunyu Raphael K
+**Reg. No:** BSCCS/2024/45844
 
 **Guiding question:** what drives student performance?
 **Dataset:** UCI Student Performance, Portuguese course (`data/student-por.csv`, 649 students, 33 columns, no missing values, `;`-separated). Source: Cortez (2008), UCI Machine Learning Repository, CC BY 4.0, https://doi.org/10.24432/C5TG7T
